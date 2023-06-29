@@ -76,9 +76,9 @@
     "url": "https://Hemlibra.jw-pharma.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/hemlibra.jw-pharma.co.kr.ico",
     "slug": "hemlibra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -88,6 +88,7 @@
     "timeMonth": 1063,
     "timeYear": 1063,
     "dailyMinutesDown": {
+      "2023-06-29": 0,
       "2023-06-24": 16
     }
   }
